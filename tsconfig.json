@@ -22,7 +22,8 @@
       "@hooks/*": ["libs/hooks/*"],
       "@contexts/*": ["libs/contexts/*"],
       "@components/*": ["libs/ui/components/*"],
-      "@containers/*": ["libs/ui/containers/*"]
+      "@containers/*": ["libs/ui/containers/*"],
+      "@pages/*": ["pages/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
